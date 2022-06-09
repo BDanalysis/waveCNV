@@ -3,9 +3,9 @@
 ## Installation
 The following software must be installed on your machine:
 
-Linux LST 14 or 16
-Python : tested with version 3.7
-Python >= 3.7
+Linux LST 14 or 16 <br/>
+Python : tested with version 3.7<br/>
+Python >= 3.7<br/>
 
 ### Python dependencies
 * numpy == 1.21.2

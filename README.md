@@ -25,7 +25,7 @@ the folder contains the reference sequence for each chromosome of the bam file.
 Note: at present, the approach only supports single chromosome samples, like chr5, chrX...
 The whole genomes can be detected by batch file
 ### runnig command
-python HBOS-CNV.py [reference] [bamfile] [binSize] [chrom]
+python process2.py [reference] [bamfile] [binSize] [chrom]
 
 [reference]: the reference folder path
 

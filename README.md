@@ -11,7 +11,7 @@ Python >= 3.7<br/>
 * numpy == 1.21.2
 * seaborn == 0.11.2
 * pysam == 0.18.0
-* matplotlib
+* matplotlib == 3.5.1
 
 You can install the above package using the following command：
 
